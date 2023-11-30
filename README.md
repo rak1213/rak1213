@@ -8,7 +8,7 @@ Hi there! 👋 Welcome to my GitHub profile. I'm Rakshit Gupta, and I'm passiona
 - 🌍 Location: Halifax, Canada
 - 💼 Occupation: Masters student at Saint Mary's University, Canada
 - 🛠 Previous Experience: Associate Consultant at Pinnaxis (2 years)
-- 🌱 I’m currently learning: Deep Learning and NLP projects
+- 🌱 Currently learning: Deep Learning and NLP
   
 
 ## My Skills
