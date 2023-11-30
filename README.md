@@ -24,7 +24,13 @@ Tech Stack, NO BAR!
 ## Fun Facts
 
 - 💻 Love discovering new technology stacks
-- 📚 Swimmer and basketball lover
+- 🏊 Enthusiast of swimming and passionate about basketball.
+
+
+
+
+
+
   
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. 😊
 
