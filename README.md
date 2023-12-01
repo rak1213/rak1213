@@ -6,9 +6,9 @@ Hi there! 👋 Welcome to my GitHub profile. I'm Rakshit Gupta, and I'm passiona
 ## About Me
 
 - 🌍 Location: Halifax, Canada
-- 💼 Occupation: Masters student at Saint Mary's University, Canada
-- 🛠 Previous Experience: Associate Consultant at Pinnaxis (2 years)
-- 🌱 Currently learning: Deep Learning and NLP
+- 💼 Cuurently: Masters student at [Saint Mary's University](https://www.smu.ca/), Canada
+- 🛠 Previous Experience: Associate Consultant at [Pinnaxis](https://www.pinnaxis.com/) (2 years)
+- 🌱 Where it Started: did my bachelors in Computer and Science from [SMVDU](https://smvdu.ac.in/)
   
 
 ## My Skills
@@ -19,12 +19,11 @@ Tech Stack, NO BAR!
 
 - LinkedIn: [Rakshit Gupta](https://www.linkedin.com/in/rakshit-gupta-8487a816a/)
 - 📧 Email: guptarakshit2000@gamil.com
-- 💬 Discord: rak1213
 
 ## Fun Facts
 
 - 💻 Love discovering new technology stacks
-- 🏊 Enthusiast of swimming and passionate about basketball.
+- 🏊 Enthusiast of swimming and passionate about basketball
 
 
 
